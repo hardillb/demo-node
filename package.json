@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/hardillb/demo-node/issues"
   },
-  "homepage": "https://github.com/hardillb/demo-node#readme"
+  "homepage": "https://github.com/hardillb/demo-node#readme",
   "node-red": {
 	  "nodes": {
 	  	"demo": "demo.js"
